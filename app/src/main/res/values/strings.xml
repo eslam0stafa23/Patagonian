@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Patagonian</string>
+  <string name="session_count">Session Count: %s</string>
+</resources>
